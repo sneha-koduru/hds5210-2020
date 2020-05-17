@@ -1,0 +1,18 @@
+PART 1:
+This works to use Beautiful Soup, but using Pandas read_html() would work a bit more easily.  Good work in implementing it with BS, though.
+
+PART 2:
+Great work.
+
+PART 3:
+Good work.
+
+PART 4:
+Nice work.
+
+PART 5:
+Great
+
+PART 6:
+Great work this semester.
+
